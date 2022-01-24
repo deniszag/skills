@@ -1,0 +1,15 @@
+Project name:
+Bag ID:
+Summary:
+Affects versions:
+Assignee:
+Severity:
+Priority:
+Components:
+Discription:
+	1.Environment
+	2.Steps to reproduce
+	3.Actual result
+	4.Expected result
+Attachmends:
+Autor:
